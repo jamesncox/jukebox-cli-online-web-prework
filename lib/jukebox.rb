@@ -21,3 +21,6 @@ HELP
 
   puts help
 end
+
+def list
+  
