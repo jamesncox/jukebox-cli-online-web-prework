@@ -53,4 +53,5 @@ def run(songs)
     input = gets.downcase.strip
     case input
     when 'list'
-      
+      list(songs)
+    when ''
