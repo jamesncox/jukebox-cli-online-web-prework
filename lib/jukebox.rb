@@ -12,4 +12,3 @@ songs = [
 
 def help
   help = <<-HELP
-  
