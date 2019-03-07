@@ -54,4 +54,7 @@ def run(songs)
     case input
     when 'list'
       list(songs)
-    when ''
+    when 'play'
+      list(songs)
+      play(songs)
+    when
