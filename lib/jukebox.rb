@@ -35,3 +35,7 @@ def play(songs)
     puts "Playing #{song[song_to_play.to_i - 1]}"
   elsif songs.include?(song_to_play)
     puts "Playing #{song_to_play}"
+  else 
+    puts "Invalid input, please try again"
+  end
+end
