@@ -48,4 +48,5 @@ def run(songs)
   # help
   
   input = ""
-  while 
+  while input
+    input = 
