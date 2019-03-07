@@ -34,4 +34,4 @@ def play(songs)
   if (1..9).to_a.include?(song_to_play.to_i)
     puts "Playing #{song[song_to_play.to_i - 1]}"
   elsif songs.include?(song_to_play)
-    puts "Playing "
+    puts "Playing #{song_to_play}"
