@@ -23,4 +23,5 @@ HELP
 end
 
 def list(songs)
+  songs.each_with_index do |
   
