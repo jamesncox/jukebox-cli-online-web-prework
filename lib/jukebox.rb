@@ -11,4 +11,5 @@ songs = [
 ]
 
 def help
-  help = 
+  help = <<-HELP
+  
