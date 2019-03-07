@@ -11,3 +11,4 @@ songs = [
 ]
 
 def help
+  help = 
