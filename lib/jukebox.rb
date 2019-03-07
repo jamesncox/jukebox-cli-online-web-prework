@@ -50,4 +50,5 @@ def run(songs)
   input = ""
   while input
     puts "Please enter a command:"
-    input = 
+    input = gets.downcase.strip
+    
